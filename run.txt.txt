@@ -1,0 +1,1 @@
+streamlit run "C:\Users\sivad\Downloads\multiple-disease-prediction-streamlit-app-main (1)\multiple-disease-prediction-streamlit-app-main\app.py"
